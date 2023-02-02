@@ -1,0 +1,37 @@
+.contenedor {
+    width: 30%;
+    text-align: center;
+}
+
+h1 {
+    width: 30%;
+    margin: 20px 20px 0px 20px;
+}
+
+.margen-derecho {
+    margin-right: 20px;
+}
+
+.margen-izquierdo {
+    margin-left: 20px;
+}
+
+.lila {
+    color: blueviolet;
+}
+
+.negrita {
+    font-weight: bold;
+}
+
+.borde-negro {
+    border: 2px solid rgb(148, 148, 148);
+    width: 20%;
+    padding: 40px 10px 40px 10px;
+}
+
+.error {
+    color: red;
+    font-weight: bold;
+    margin-top: 10px;
+}
